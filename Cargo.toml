@@ -1,0 +1,15 @@
+[package]
+name = "draft"
+version = "0.0.0"
+authors = ["tekjar <raviteja@bytebeam.io>"]
+description = "Robust replication implementation for learning and teaching"
+license = "MIT"
+repository = "https://github.com/bytebeamio/rumqtt"
+edition = "2018"
+keywords = ["raft", "replication", "paxos"]
+categories = ["network-programming"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
